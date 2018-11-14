@@ -1,7 +1,3 @@
-# backend-for-testers
-
-Ready-made project for a Tester/QA assignment.
-
 ## The setup
 
 - JAVA 8+ jdk must be [installed](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
