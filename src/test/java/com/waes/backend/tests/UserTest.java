@@ -25,7 +25,7 @@ public class UserTest extends Services{
 		"get, isAdmin, false",
 		"get, superpower, Debug a repellent factory storage.",
 		})
-	void testVerifyYserData(String type, String fieldName, String data) throws Exception {	
+	void testVerifyUserData(String type, String fieldName, String data) throws Exception {	
 		
 		String response = httpRequestResponse(type, url);
 		String fieldData = getResponseData(response, fieldName);

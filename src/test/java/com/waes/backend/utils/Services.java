@@ -6,8 +6,6 @@ import java.net.URL;
 
 import org.json.JSONObject;
 
-import gherkin.JSONParser;
-import gherkin.deps.com.google.gson.JsonParser;
 
 public class Services {
 	
